@@ -1,0 +1,21 @@
+{
+  "type": "bloodmagic:soulforge",
+  "drain": 2.5,
+  "input0": {
+    "tag": "forge:storage_blocks/copper"
+  },
+  "input1": {
+    "item": "minecraft:charcoal"
+  },
+  "input2": {
+    "tag": "minecraft:logs"
+  },
+  "input3": {
+    "tag": "minecraft:planks"
+  },
+  "minimumDrain": 80.0,
+  "output": {
+    "count": 4,
+    "item": "bloodmagic:deforester_charge_2"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "bloodmagic:arc",
+  "addedoutput": [
+    {
+      "type": {
+        "item": "bloodmagic:hellforgedparts"
+      },
+      "chance": 0.0,
+      "mainchance": 1.0
+    },
+    {
+      "type": {
+        "count": 4,
+        "item": "minecraft:netherite_scrap"
+      },
+      "chance": 0.0,
+      "mainchance": 1.0
+    }
+  ],
+  "consumeingredient": false,
+  "input": {
+    "item": "bloodmagic:accelerationrune2"
+  },
+  "inputsize": 1,
+  "mainoutputchance": 0.0,
+  "output": {
+    "item": "bloodmagic:accelerationrune"
+  },
+  "tool": {
+    "tag": "bloodmagic:arc/reverter"
+  }
+}

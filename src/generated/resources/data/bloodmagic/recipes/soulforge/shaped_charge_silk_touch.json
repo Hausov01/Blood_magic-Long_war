@@ -1,0 +1,21 @@
+{
+  "type": "bloodmagic:soulforge",
+  "drain": 1.0,
+  "input0": {
+    "item": "bloodmagic:shaped_charge"
+  },
+  "input1": {
+    "tag": "forge:crops/nether_wart"
+  },
+  "input2": {
+    "item": "minecraft:cobweb"
+  },
+  "input3": {
+    "tag": "forge:nuggets/gold"
+  },
+  "minimumDrain": 60.0,
+  "output": {
+    "item": "bloodmagic:shaped_charge",
+    "nbt": "{anointment_holder:{anointments:[{damage:1,key:\"bloodmagic:silk_touch\",level:1,max_damage:1}]}}"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "bloodmagic:arc",
+  "consumeingredient": false,
+  "input": {
+    "tag": "bloodmagic:gravels/netherite_scrap"
+  },
+  "inputsize": 1,
+  "mainoutputchance": 0.0,
+  "output": {
+    "item": "bloodmagic:sand_netherite"
+  },
+  "tool": {
+    "tag": "bloodmagic:arc/cuttingfluid"
+  }
+}

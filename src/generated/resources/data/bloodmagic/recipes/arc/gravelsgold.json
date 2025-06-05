@@ -1,0 +1,24 @@
+{
+  "type": "bloodmagic:arc",
+  "addedoutput": [
+    {
+      "type": {
+        "item": "bloodmagic:corrupted_tinydust"
+      },
+      "chance": 0.5,
+      "mainchance": 0.0
+    }
+  ],
+  "consumeingredient": false,
+  "input": {
+    "tag": "bloodmagic:fragments/gold"
+  },
+  "inputsize": 1,
+  "mainoutputchance": 0.0,
+  "output": {
+    "item": "bloodmagic:goldgravel"
+  },
+  "tool": {
+    "tag": "bloodmagic:arc/resonator"
+  }
+}

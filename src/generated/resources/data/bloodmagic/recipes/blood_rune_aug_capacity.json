@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "forge:obsidian"
+    },
+    "b": {
+      "item": "bloodmagic:demonslate"
+    },
+    "c": {
+      "item": "minecraft:bucket"
+    },
+    "d": {
+      "item": "bloodmagic:altarcapacityrune"
+    },
+    "e": {
+      "type": "bloodmagic:bloodorb",
+      "orb_tier": 4
+    }
+  },
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "result": {
+    "item": "bloodmagic:bettercapacityrune"
+  },
+  "show_notification": true
+}

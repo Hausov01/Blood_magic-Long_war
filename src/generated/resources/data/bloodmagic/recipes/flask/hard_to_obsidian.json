@@ -1,0 +1,23 @@
+{
+  "type": "bloodmagic:flask_potiontransform",
+  "input": [
+    {
+      "tag": "forge:gems/diamond"
+    },
+    {
+      "item": "minecraft:crying_obsidian"
+    }
+  ],
+  "inputEffect": [
+    "bloodmagic:hard_cloak"
+  ],
+  "outputEffect": [
+    {
+      "baseDuration": 3600,
+      "effect": "bloodmagic:obsidian_cloak"
+    }
+  ],
+  "syphon": 1000,
+  "ticks": 200,
+  "upgradeLevel": 1
+}

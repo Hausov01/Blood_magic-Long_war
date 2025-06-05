@@ -1,0 +1,31 @@
+{
+  "type": "bloodmagic:arc",
+  "addedoutput": [
+    {
+      "type": {
+        "item": "bloodmagic:corrupted_tinydust"
+      },
+      "chance": 0.5,
+      "mainchance": 0.0
+    },
+    {
+      "type": {
+        "item": "bloodmagic:corrupted_tinydust"
+      },
+      "chance": 0.5,
+      "mainchance": 0.0
+    }
+  ],
+  "consumeingredient": false,
+  "input": {
+    "tag": "bloodmagic:fragments/netherite_scrap"
+  },
+  "inputsize": 1,
+  "mainoutputchance": 0.0,
+  "output": {
+    "item": "bloodmagic:gravel_netherite_scrap"
+  },
+  "tool": {
+    "tag": "bloodmagic:arc/resonator"
+  }
+}

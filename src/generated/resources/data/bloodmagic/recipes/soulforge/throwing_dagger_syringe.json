@@ -1,0 +1,15 @@
+{
+  "type": "bloodmagic:soulforge",
+  "drain": 2.0,
+  "input0": {
+    "tag": "forge:stone"
+  },
+  "input1": {
+    "tag": "forge:glass"
+  },
+  "minimumDrain": 10.0,
+  "output": {
+    "count": 8,
+    "item": "bloodmagic:throwing_dagger_syringe"
+  }
+}

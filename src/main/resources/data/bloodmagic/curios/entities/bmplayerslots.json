@@ -1,0 +1,9 @@
+{
+  "entities": ["player"],
+  "slots": [
+    "charm",
+    "necklace",
+    "bracelet",
+    "living_armour_socket"
+  ]
+}

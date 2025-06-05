@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": {
+      "tag": "forge:cobblestone"
+    },
+    "h": {
+      "item": "minecraft:charcoal"
+    },
+    "o": {
+      "type": "bloodmagic:bloodorb",
+      "orb_tier": 1
+    },
+    "s": {
+      "tag": "forge:stone"
+    }
+  },
+  "pattern": [
+    "s s",
+    "shs",
+    "coc"
+  ],
+  "result": {
+    "item": "bloodmagic:incensealtar"
+  },
+  "show_notification": true
+}

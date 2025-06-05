@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "tag": "forge:ingots/iron"
+    },
+    "g": {
+      "tag": "forge:ingots/gold"
+    },
+    "o": {
+      "item": "bloodmagic:blankslate"
+    },
+    "s": {
+      "tag": "forge:stone"
+    },
+    "w": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "sss",
+    "wbw",
+    "gog"
+  ],
+  "result": {
+    "item": "bloodmagic:alchemytable"
+  },
+  "show_notification": true
+}

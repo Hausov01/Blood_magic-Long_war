@@ -1,0 +1,15 @@
+{
+  "type": "bloodmagic:arc",
+  "consumeingredient": true,
+  "input": {
+    "item": "bloodmagic:masterbloodorb"
+  },
+  "inputsize": 1,
+  "mainoutputchance": 0.0,
+  "output": {
+    "item": "bloodmagic:weakbloodshard"
+  },
+  "tool": {
+    "tag": "bloodmagic:arc/reverter"
+  }
+}

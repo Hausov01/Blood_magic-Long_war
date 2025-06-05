@@ -1,0 +1,24 @@
+{
+  "type": "bloodmagic:arc",
+  "addedoutput": [
+    {
+      "type": {
+        "item": "bloodmagic:weakbloodshard"
+      },
+      "chance": 0.2,
+      "mainchance": 0.0
+    }
+  ],
+  "consumeingredient": false,
+  "input": {
+    "item": "bloodmagic:strong_tau"
+  },
+  "inputsize": 1,
+  "mainoutputchance": 0.0,
+  "output": {
+    "item": "bloodmagic:weakbloodshard"
+  },
+  "tool": {
+    "tag": "bloodmagic:arc/reverter"
+  }
+}

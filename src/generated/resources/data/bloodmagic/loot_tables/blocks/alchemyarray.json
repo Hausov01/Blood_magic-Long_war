@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [],
+      "name": "bloodmagic:alchemyarray",
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "bloodmagic:blocks/alchemyarray"
+}

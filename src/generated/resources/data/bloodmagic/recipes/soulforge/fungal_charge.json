@@ -1,0 +1,21 @@
+{
+  "type": "bloodmagic:soulforge",
+  "drain": 0.5,
+  "input0": {
+    "tag": "forge:cobblestone"
+  },
+  "input1": {
+    "item": "minecraft:charcoal"
+  },
+  "input2": {
+    "tag": "minecraft:mushroom_hyphae"
+  },
+  "input3": {
+    "tag": "forge:mushrooms"
+  },
+  "minimumDrain": 10.0,
+  "output": {
+    "count": 8,
+    "item": "bloodmagic:fungal_charge"
+  }
+}

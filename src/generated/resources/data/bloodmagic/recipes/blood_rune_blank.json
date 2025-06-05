@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "forge:stone"
+    },
+    "o": {
+      "type": "bloodmagic:bloodorb",
+      "orb_tier": 1
+    },
+    "s": {
+      "item": "bloodmagic:blankslate"
+    }
+  },
+  "pattern": [
+    "asa",
+    "aoa",
+    "aaa"
+  ],
+  "result": {
+    "item": "bloodmagic:blankrune"
+  },
+  "show_notification": true
+}

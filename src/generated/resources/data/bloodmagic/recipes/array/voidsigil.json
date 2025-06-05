@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:array",
+  "addedinput": {
+    "item": "bloodmagic:reinforcedslate"
+  },
+  "baseinput": {
+    "item": "bloodmagic:reagentvoid"
+  },
+  "output": {
+    "item": "bloodmagic:voidsigil"
+  },
+  "texture": "bloodmagic:textures/models/alchemyarrays/voidsigil.png"
+}

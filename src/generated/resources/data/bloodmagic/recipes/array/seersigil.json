@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:array",
+  "addedinput": {
+    "item": "bloodmagic:reinforcedslate"
+  },
+  "baseinput": {
+    "item": "bloodmagic:reagentsight"
+  },
+  "output": {
+    "item": "bloodmagic:seersigil"
+  },
+  "texture": "bloodmagic:textures/models/alchemyarrays/sightsigil.png"
+}

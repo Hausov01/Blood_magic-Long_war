@@ -1,0 +1,20 @@
+{
+  "type": "bloodmagic:flask_potiontransform",
+  "input": [
+    {
+      "item": "minecraft:fermented_spider_eye"
+    }
+  ],
+  "inputEffect": [
+    "minecraft:slow_falling"
+  ],
+  "outputEffect": [
+    {
+      "baseDuration": 3600,
+      "effect": "minecraft:levitation"
+    }
+  ],
+  "syphon": 500,
+  "ticks": 200,
+  "upgradeLevel": 1
+}

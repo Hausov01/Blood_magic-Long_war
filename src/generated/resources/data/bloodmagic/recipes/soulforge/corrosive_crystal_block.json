@@ -1,0 +1,20 @@
+{
+  "type": "bloodmagic:soulforge",
+  "drain": 100.0,
+  "input0": {
+    "item": "bloodmagic:corrosivecrystal"
+  },
+  "input1": {
+    "item": "bloodmagic:corrosivecrystal"
+  },
+  "input2": {
+    "item": "bloodmagic:corrosivecrystal"
+  },
+  "input3": {
+    "item": "bloodmagic:corrosivecrystal"
+  },
+  "minimumDrain": 1200.0,
+  "output": {
+    "item": "bloodmagic:corrosivedemoncrystal"
+  }
+}

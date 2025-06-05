@@ -1,0 +1,15 @@
+{
+  "type": "bloodmagic:arc",
+  "consumeingredient": true,
+  "input": {
+    "item": "bloodmagic:weakbloodorb"
+  },
+  "inputsize": 1,
+  "mainoutputchance": 0.0,
+  "output": {
+    "item": "minecraft:diamond"
+  },
+  "tool": {
+    "tag": "bloodmagic:arc/reverter"
+  }
+}

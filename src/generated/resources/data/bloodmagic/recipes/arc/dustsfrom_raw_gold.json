@@ -1,0 +1,24 @@
+{
+  "type": "bloodmagic:arc",
+  "addedoutput": [
+    {
+      "type": {
+        "item": "bloodmagic:goldsand"
+      },
+      "chance": 0.17,
+      "mainchance": 0.33
+    }
+  ],
+  "consumeingredient": false,
+  "input": {
+    "tag": "forge:raw_materials/gold"
+  },
+  "inputsize": 1,
+  "mainoutputchance": 0.0,
+  "output": {
+    "item": "bloodmagic:goldsand"
+  },
+  "tool": {
+    "tag": "bloodmagic:arc/cuttingfluid"
+  }
+}

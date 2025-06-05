@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "bloodmagic:miningsigil",
+    "bloodmagic:growthsigil",
+    "bloodmagic:sigilofmagnetism",
+    "bloodmagic:icesigil",
+    "bloodmagic:sigilofholding",
+    "bloodmagic:divinationsigil",
+    "bloodmagic:seersigil",
+    "bloodmagic:sigilofsuppression",
+    "bloodmagic:experiencebook",
+    "bloodmagic:soulgempetty",
+    "bloodmagic:soulgemlesser",
+    "bloodmagic:soulgemcommon",
+    "bloodmagic:soulgemgreater",
+    "bloodmagic:upgradetrainer",
+    "bloodmagic:demonwillgauge"
+  ]
+}

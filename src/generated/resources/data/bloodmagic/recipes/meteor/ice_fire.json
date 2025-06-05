@@ -1,0 +1,30 @@
+{
+  "type": "bloodmagic:meteor",
+  "explosion": 12.0,
+  "input": {
+    "tag": "forge:bones/dragon"
+  },
+  "layers": [
+    {
+      "additionalWeight": 200,
+      "fill": {
+        "block": "minecraft:stone"
+      },
+      "minWeight": 0,
+      "radius": 6,
+      "weightMap": [
+        {
+          "index": 0,
+          "tag": "forge:ores/copper",
+          "weight": 100
+        },
+        {
+          "index": 0,
+          "tag": "forge:ores/silver",
+          "weight": 100
+        }
+      ]
+    }
+  ],
+  "syphon": 250000
+}

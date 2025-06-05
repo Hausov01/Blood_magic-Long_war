@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "forge:stone"
+    },
+    "b": {
+      "item": "minecraft:furnace"
+    },
+    "c": {
+      "tag": "forge:ingots/gold"
+    }
+  },
+  "pattern": [
+    "a a",
+    "aba",
+    "ccc"
+  ],
+  "result": {
+    "item": "bloodmagic:altar"
+  },
+  "show_notification": true
+}

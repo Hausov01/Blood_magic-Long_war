@@ -1,0 +1,15 @@
+{
+  "type": "bloodmagic:arc",
+  "consumeingredient": false,
+  "input": {
+    "tag": "forge:ingots/iron"
+  },
+  "inputsize": 1,
+  "mainoutputchance": 0.0,
+  "output": {
+    "item": "bloodmagic:ironsand"
+  },
+  "tool": {
+    "tag": "bloodmagic:arc/explosive"
+  }
+}

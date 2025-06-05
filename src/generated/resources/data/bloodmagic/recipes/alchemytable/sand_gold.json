@@ -1,0 +1,18 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "tag": "forge:ores/gold"
+    },
+    {
+      "tag": "bloodmagic:arc/cuttingfluid"
+    }
+  ],
+  "output": {
+    "count": 2,
+    "item": "bloodmagic:goldsand"
+  },
+  "syphon": 400,
+  "ticks": 200,
+  "upgradeLevel": 1
+}

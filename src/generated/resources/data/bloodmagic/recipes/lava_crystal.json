@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "forge:glass"
+    },
+    "b": {
+      "item": "minecraft:lava_bucket"
+    },
+    "c": {
+      "type": "bloodmagic:bloodorb",
+      "orb_tier": 1
+    },
+    "d": {
+      "tag": "forge:obsidian"
+    },
+    "e": {
+      "tag": "forge:gems/diamond"
+    }
+  },
+  "pattern": [
+    "aba",
+    "bcb",
+    "ded"
+  ],
+  "result": {
+    "item": "bloodmagic:lavacrystal"
+  },
+  "show_notification": true
+}

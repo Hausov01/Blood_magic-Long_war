@@ -1,0 +1,21 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "tag": "forge:dusts/sulfur"
+    },
+    {
+      "tag": "forge:dusts/saltpeter"
+    },
+    {
+      "tag": "minecraft:coals"
+    }
+  ],
+  "output": {
+    "count": 3,
+    "item": "minecraft:gunpowder"
+  },
+  "syphon": 0,
+  "ticks": 100,
+  "upgradeLevel": 0
+}

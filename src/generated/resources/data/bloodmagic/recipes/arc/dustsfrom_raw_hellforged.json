@@ -1,0 +1,24 @@
+{
+  "type": "bloodmagic:arc",
+  "addedoutput": [
+    {
+      "type": {
+        "item": "bloodmagic:sand_hellforged"
+      },
+      "chance": 0.17,
+      "mainchance": 0.33
+    }
+  ],
+  "consumeingredient": false,
+  "input": {
+    "tag": "forge:raw_materials/hellforged"
+  },
+  "inputsize": 1,
+  "mainoutputchance": 0.0,
+  "output": {
+    "item": "bloodmagic:sand_hellforged"
+  },
+  "tool": {
+    "tag": "bloodmagic:arc/cuttingfluid"
+  }
+}

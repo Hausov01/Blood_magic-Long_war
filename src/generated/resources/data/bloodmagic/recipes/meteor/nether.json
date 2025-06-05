@@ -1,0 +1,61 @@
+{
+  "type": "bloodmagic:meteor",
+  "explosion": 12.0,
+  "input": {
+    "tag": "forge:dusts/glowstone"
+  },
+  "layers": [
+    {
+      "additionalWeight": 0,
+      "fill": {
+        "block": "minecraft:netherrack"
+      },
+      "minWeight": 500,
+      "radius": 8,
+      "weightMap": [
+        {
+          "block": "minecraft:glowstone",
+          "weight": 100
+        },
+        {
+          "block": "minecraft:nether_quartz_ore",
+          "weight": 150
+        },
+        {
+          "block": "minecraft:nether_gold_ore",
+          "weight": 60
+        }
+      ]
+    },
+    {
+      "additionalWeight": 0,
+      "fill": {
+        "block": "minecraft:blackstone"
+      },
+      "minWeight": 1000,
+      "radius": 5,
+      "shell": {
+        "block": "minecraft:glowstone"
+      },
+      "weightMap": [
+        {
+          "block": "minecraft:ancient_debris",
+          "weight": 60
+        },
+        {
+          "block": "minecraft:chiseled_polished_blackstone",
+          "weight": 300
+        },
+        {
+          "block": "minecraft:gilded_blackstone",
+          "weight": 200
+        },
+        {
+          "block": "minecraft:polished_blackstone",
+          "weight": 400
+        }
+      ]
+    }
+  ],
+  "syphon": 1000000
+}

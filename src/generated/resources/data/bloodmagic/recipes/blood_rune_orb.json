@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "forge:stone"
+    },
+    "b": {
+      "type": "bloodmagic:bloodorb",
+      "orb_tier": 1
+    },
+    "c": {
+      "item": "bloodmagic:blankrune"
+    },
+    "d": {
+      "type": "bloodmagic:bloodorb",
+      "orb_tier": 4
+    }
+  },
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "result": {
+    "item": "bloodmagic:orbcapacityrune"
+  },
+  "show_notification": true
+}

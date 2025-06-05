@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "bloodmagic:blankslate"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "o": {
+      "tag": "forge:storage_blocks/iron"
+    },
+    "s": {
+      "tag": "forge:stone"
+    }
+  },
+  "pattern": [
+    "i i",
+    "sSs",
+    "sos"
+  ],
+  "result": {
+    "item": "bloodmagic:soulforge"
+  },
+  "show_notification": true
+}

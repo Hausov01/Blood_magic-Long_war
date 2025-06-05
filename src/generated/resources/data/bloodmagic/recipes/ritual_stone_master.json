@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "forge:obsidian"
+    },
+    "b": {
+      "item": "bloodmagic:ritualstone"
+    },
+    "c": {
+      "type": "bloodmagic:bloodorb",
+      "orb_tier": 3
+    }
+  },
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "result": {
+    "item": "bloodmagic:masterritualstone"
+  },
+  "show_notification": true
+}
