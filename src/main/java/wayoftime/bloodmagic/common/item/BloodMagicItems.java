@@ -224,10 +224,10 @@ public class BloodMagicItems
 	public static final RegistryObject<Item> REAGENT_TELEPOSITION = BASICITEMS.register("reagentteleposition", () -> new ItemBase());
 
 	// Tartaric Gems
-	public static final RegistryObject<Item> PETTY_GEM = ITEMS.register("soulgempetty", () -> new ItemSoulGem("petty", 64));
-	public static final RegistryObject<Item> LESSER_GEM = ITEMS.register("soulgemlesser", () -> new ItemSoulGem("lesser", 256));
-	public static final RegistryObject<Item> COMMON_GEM = ITEMS.register("soulgemcommon", () -> new ItemSoulGem("common", 1024));
-	public static final RegistryObject<Item> GREATER_GEM = ITEMS.register("soulgemgreater", () -> new ItemSoulGem("greater", 4096));
+	public static final RegistryObject<Item> PETTY_GEM = ITEMS.register("soulgempetty", () -> new ItemSoulGem("petty", 256));
+	public static final RegistryObject<Item> LESSER_GEM = ITEMS.register("soulgemlesser", () -> new ItemSoulGem("lesser", 1024));
+	public static final RegistryObject<Item> COMMON_GEM = ITEMS.register("soulgemcommon", () -> new ItemSoulGem("common", 4096));
+	public static final RegistryObject<Item> GREATER_GEM = ITEMS.register("soulgemgreater", () -> new ItemSoulGem("greater", 8192));
 
 	public static final RegistryObject<Item> MONSTER_SOUL_RAW = BASICITEMS.register("basemonstersoul", () -> new ItemMonsterSoul(EnumDemonWillType.DEFAULT));
 	public static final RegistryObject<Item> MONSTER_SOUL_CORROSIVE = BASICITEMS.register("basemonstersoul_corrosive", () -> new ItemMonsterSoul(EnumDemonWillType.CORROSIVE));
