@@ -45,7 +45,7 @@ import java.util.UUID;
 
 public class ItemSentientSword extends SwordItem implements IDemonWillWeapon, IMultiWillTool
 {
-	public static int[] soulBracket = new int[] { 16, 60, 200, 400, 1000, 2000, 4000 };
+	public static int[] soulBracket = new int[] { 16*4, 60*4, 200*4, 400*4, 1000*4, 2000*4, 4000*2 };
 	public static double[] defaultDamageAdded = new double[] { 1, 1.5, 2, 2.5, 3, 3.5, 4 };
 	public static double[] destructiveDamageAdded = new double[] { 1.5, 2.25, 3, 3.75, 4.5, 5.25, 6 };
 	public static double[] vengefulDamageAdded = new double[] { 0, 0.5, 1, 1.5, 2, 2.25, 2.5 };
