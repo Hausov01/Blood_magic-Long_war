@@ -132,13 +132,13 @@ public class ItemSentientSword extends SwordItem implements IDemonWillWeapon, IM
 		{
 		case CORROSIVE:
 		case DEFAULT:
-			return defaultDamageAdded[willBracket];
+			return defaultDamageAdded[willBracket] * 4.5;
 		case DESTRUCTIVE:
-			return destructiveDamageAdded[willBracket];
+			return destructiveDamageAdded[willBracket] * 4.5;
 		case VENGEFUL:
-			return vengefulDamageAdded[willBracket];
+			return vengefulDamageAdded[willBracket] * 4.5;
 		case STEADFAST:
-			return steadfastDamageAdded[willBracket];
+			return steadfastDamageAdded[willBracket] * 4.5;
 		}
 
 		return 0;
